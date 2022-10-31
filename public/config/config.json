@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xD3F5e289BeC08F8CdCfF6Afc3EdeaFe764b0BFaf",
+  "SCAN_LINK": "https://goerli.etherscan.io/address/0xD3F5e289BeC08F8CdCfF6Afc3EdeaFe764b0BFaf",
+  "NETWORK": {
+    "NAME": "Test BSC",
+    "SYMBOL": "TBNB",
+    "ID": 97
+  },
+  "NFT_NAME": "y00ts Yacht Club New",
+  "SYMBOL": "YYCN",
+  "MAX_SUPPLY": 10000,
+  "WEI_COST": 0,
+  "DISPLAY_COST": 0,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/en-US/collection/y00ts-yacht-club",
+  "SHOW_BACKGROUND": true
+}
