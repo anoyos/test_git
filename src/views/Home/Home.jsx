@@ -7,9 +7,6 @@ import Typography from '@mui/material/Typography';
 import styles from '../../assets/jss/views/homeStyles';
 import { Button, Grid } from '@mui/material';
 
-import Twitter from 'mdi-material-ui/Twitter'
-import Discord from 'mdi-material-ui/Discord'
-
 const useStyles = makeStyles(styles)
 
 const Home = () => {
